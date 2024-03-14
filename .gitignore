@@ -5,8 +5,7 @@
 logs
 *.log
 
-# Ignore environment files
-.env
+ .gitignore
 
 # Ignore OS generated files
 .DS_Store
@@ -23,3 +22,4 @@ npm-debug.log*
 
 # Ignore production build files (if applicable)
 /uploads
+
